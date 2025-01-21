@@ -4,7 +4,7 @@
 
 Como parte del Challenge de Alura para la formacion de Backend, he desarrollado un una aplicacion de consola siguiendo las pautas establecidas por la plataforma.
 
-Se ha desarrollado con ayuda de tutoriales y de repasos a los videos de la plataforma para asi conseguir lograr el challenge
+Se ha desarrollado con ayuda de tutoriales y de repasos de la plataforma para asi conseguir lograr el challenge
 
 <h2>Estado del proyecto: <strong>FINALIZADO</strong></h2>
 
